@@ -1,0 +1,78 @@
+{
+  "companies": [
+    {
+      "name": "ABC Electronics",
+      "address": {
+        "street": "456 Tech Blvd",
+        "city": "Techville",
+        "zipcode": "54321"
+      },
+      "profitLoss": 5000000,
+      "country": "USA",
+      "establishedYear": 2005
+    },
+    {
+      "name": "XYZ Pharmaceuticals",
+      "address": {
+        "street": "789 Pharma Lane",
+        "city": "Medicity",
+        "zipcode": "67890"
+      },
+      "profitLoss": -2000000,
+      "country": "Canada",
+      "establishedYear": 2010
+    },
+    {
+      "name": "Smart Solutions Ltd",
+      "address": {
+        "street": "101 Innovation Street",
+        "city": "Innovatown",
+        "zipcode": "12345"
+      },
+      "profitLoss": 10000000,
+      "country": "UK",
+      "establishedYear": 2008
+    },
+    {
+      "name": "Green Energy Co.",
+      "address": {
+        "street": "321 Eco Avenue",
+        "city": "Sustainable City",
+        "zipcode": "98765"
+      },
+      "profitLoss": 3000000,
+      "country": "Germany",
+      "establishedYear": 2012
+    },
+    {
+      "name": "Global Finance Inc.",
+      "address": {
+        "street": "555 Money Street",
+        "city": "Finance City",
+        "zipcode": "13579"
+      },
+      "profitLoss": 8000000,
+      "country": "Singapore",
+      "establishedYear": 2000
+    }
+  ],
+  "age": 30,
+  "isStudent": false,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "zipcode": "12345"
+  },
+  "favoriteColors": ["blue", "green"],
+  "contacts": [
+    {
+      "type": "email",
+      "value": "john.doe@example.com"
+    },
+    {
+      "type": "phone",
+      "value": "+1 123-456-7890"
+    }
+  ]
+}
+
